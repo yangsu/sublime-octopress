@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% include_code ${2:title} ${3:lang:${4:language}} ${1:path/to/file} %}
+]]></content>
+	<tabTrigger>%include</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

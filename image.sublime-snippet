@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% img ${1:/path/to/image} %}
+]]></content>
+	<tabTrigger>%image</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

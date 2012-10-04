@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% jsfiddle {1:shorttag} ${2:tabs} ${3:skin} ${4:height} ${5:width} %}
+]]></content>
+	<tabTrigger>%fiddle</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

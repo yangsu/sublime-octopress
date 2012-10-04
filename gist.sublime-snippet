@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% gist ${1:gist_id} %}
+]]></content>
+	<tabTrigger>%gist</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

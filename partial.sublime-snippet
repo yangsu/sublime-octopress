@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% render_partial ${1:path/to/anyfile} %}
+]]></content>
+	<tabTrigger>%partial</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

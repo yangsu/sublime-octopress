@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% video ${1:url/to/video} %}
+]]></content>
+	<tabTrigger>%vid</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{% blockquote %}
+${1:quote}
+{% endblockquote %}
+]]></content>
+	<tabTrigger>%quote</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

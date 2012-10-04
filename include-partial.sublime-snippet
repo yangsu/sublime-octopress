@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% include ${1:path/to/partial.html} %}
+]]></content>
+	<tabTrigger>%include</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
