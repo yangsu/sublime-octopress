@@ -1,7 +1,7 @@
 sublime-octopress
 =================
 
-Octopress Snippets for Sublime Text 2
+Octopress Snippets for Sublime Text 2/3
 
 - blockquote
 - code
